@@ -1,0 +1,1 @@
+Odin Recipes is a collection of a few recipes I use day to day. Step one(current) is a brief practice environment for html basics. In the future I will test out CSS basics on my site.
